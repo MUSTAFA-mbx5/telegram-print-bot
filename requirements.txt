@@ -1,0 +1,9 @@
+pymupdf
+python-docx
+python-pptx
+telethon
+nest-asyncio
+matplotlib-venn
+pydot
+cartopy
+libarchive-c
